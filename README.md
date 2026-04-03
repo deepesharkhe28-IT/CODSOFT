@@ -4,15 +4,15 @@ This repository contains the projects completed as part of the CodSoft AI Intern
 
 ---
 
-## 🤖 Task 1: Chatbot
+## 🤖 Task 1: Chatbot (VELORA)
 
-This project is a simple AI-based chatbot that interacts with users through text.
+VELORA is a simple AI chatbot that interacts with users using predefined responses.
 
 ### Features:
-- Responds to user queries using predefined responses
-- Handles greetings, basic questions, and conversations
-- Uses conditional logic and keyword matching
-- Easy to use in terminal
+- Responds to greetings and user queries
+- Uses keyword matching
+- Interactive terminal-based chatbot
+- Personalized bot name (VELORA)
 
 ### Technologies Used:
 - Python
